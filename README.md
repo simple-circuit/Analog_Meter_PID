@@ -6,4 +6,4 @@ in the loop reduces overshoot and response time. Read the file:
 
 improving analog meter performance.pdf
 
-![](./CisR2.png)
+![](./pico_meter_sch.png)
